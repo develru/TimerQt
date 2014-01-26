@@ -1,0 +1,6 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource>
+        <file alias="timer.ui">timer.ui</file>
+        <file alias="Timer.png">Timer.png</file>
+    </qresource>
+</RCC>
