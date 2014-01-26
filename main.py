@@ -1,7 +1,6 @@
 '''
 Created on 04.07.2013
 
-@author: uidv3540
 '''
 from PySide.QtUiTools import QUiLoader
 from PySide import QtCore, QtGui
